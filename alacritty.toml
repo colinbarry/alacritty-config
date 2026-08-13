@@ -1,0 +1,5 @@
+[general]
+import = ["~/.config/alacritty/themes/themes/dracula.toml"]
+
+[font]
+size = 14.0
